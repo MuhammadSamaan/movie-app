@@ -2,7 +2,8 @@
 This is a Movie App, design by using React. Built with React.js for the user interface, Appwrite for backend services, and styled with TailwindCSS, this Movie App lets users browse trending movies, search titles, and explore content using the TMDB API. It features a responsive layout and a sleek, modern design.
 
 
-🔋 Features
+🔋 Features:
+
 👉 Browse All Movies: Explore a wide range of movies available on the platform.
 
 👉 Search Movies: Easily search for specific movies using a search function.
